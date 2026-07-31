@@ -1,1 +1,1 @@
-# GoalOS-AI
+# Kensei-AI
